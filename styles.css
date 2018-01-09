@@ -1,0 +1,16 @@
+.rectangle {
+	width: 600px;
+	height: 200px;
+	background: rgb(116, 23, 23);
+}
+
+.top{
+    color: red;
+    text-align: center;
+    padding: 1em;
+    border: 5px solid black;
+    width: 12em;
+    margin: 2em;
+    display:inline-block;
+}
+	
